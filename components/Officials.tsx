@@ -15,7 +15,7 @@ const Officials = () => {
       MarathiName: "श्री. निवृत्ती शंकर माळी",
       EnglishName: "Mr. Nivrutti Shankar Mali",
       positionKey: "officials.sarpanch",
-      image: "/images/back.jpg",
+      image: "/images/sarpanch.jpg",
       phone: "+91-9860379356",
       phoneDevnagari: "+९१-९८६०३७९३५६",
       email: "kapuskhedgp7@gmail.com",
